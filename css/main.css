@@ -80,7 +80,7 @@
 	display: none;
 }
 
-@media (max-width: 391px) {
+@media (max-width: 450px) {
 	.text-block {
 		width: 355px;
 		padding: 15px;
